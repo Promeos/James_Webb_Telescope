@@ -1,2 +1,2 @@
-# James_Webb_Telescope
-Measure the physical and chemical properties of planetary systems and investigate the potential for life in those systems.
+# James Webb Telescope
+Waiting for NASA to release data.
